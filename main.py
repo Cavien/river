@@ -1,3 +1,7 @@
+def river_ce(str):
+    print("river-ce")
+
+
 def greet(name):
     """
     Greet a person by name.
