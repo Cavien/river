@@ -10,6 +10,9 @@ def cavienadd(a, b):
         int: The sum of the two numbers
     """
     return a + b
+def river():
+    print("river")
+    
 def greet(name):
     """
     Greet a person by name.
