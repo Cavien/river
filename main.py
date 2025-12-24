@@ -1,3 +1,6 @@
+def new3():
+    pass
+
 def new2():
     pass
 def cavienadd(a, b):
