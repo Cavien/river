@@ -1,3 +1,5 @@
+def new2():
+    pass
 def cavienadd(a, b):
     pass
 def river():
@@ -18,4 +20,6 @@ def new():
 
 if __name__ == "__main__":
     main()
+
+
 
